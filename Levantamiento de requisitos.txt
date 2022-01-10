@@ -1,0 +1,21 @@
+PMV
+Un sistema recursivo con mano de obra pensante.
+Banco de respuesta de posibilidades, para que el evaluador pueda poblar, llenar la rubica de la evaluación.
+Opciones.
+	Expresión oral global.
+		* complejidad linguistica
+		* uso del vocabulario
+		* control del lenguaje
+	Fortalezas de pronunciación.
+	* suprasegmetales.
+		-entonacion
+		-ritmo
+		-acento prosodico
+		Excelente, bueno, regular
+	* segmentales
+		-sonidos consonantes
+		-sonidos vocalicos
+		Excelente, bueno, regular
+	Aspectos a mejorar pronunciación.
+	* suprasegmentales
+	* segmentales
